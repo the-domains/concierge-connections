@@ -1,0 +1,28 @@
+name: Concierge Connections
+favicon: null
+layout_spectrum: 0.036274302285164595
+typography_spectrum: 0.12246358045376837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8156265749130398
+  lightness: 0.532338502118364
+  saturation: 0.19512725621461868
+  rhythmicContrast: 0.054328540340065956
+purpose: []
